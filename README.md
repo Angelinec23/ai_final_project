@@ -30,7 +30,9 @@ This GitHub repository offers a template specifically designed to teach students
 
 [List the contributors to your project and describe their roles and responsibilities.]
 傅瑋浚 Fu Wei Chun           110ZU1047
+
 王長婷 Pornnapat Pumipruek   111ZU1050
+
 張嘉琳Angeline Jia Lin Chong 111ZU1042
 
 ## Acknowledgments
