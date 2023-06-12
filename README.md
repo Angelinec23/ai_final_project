@@ -28,13 +28,10 @@ To get started with our ICI Qualifier, please do follow the necessary steps:
 
 ## Contributors
 
-[List the contributors to your project and describe their roles and responsibilities.]
-
 傅瑋浚 Fu Wei Chun, 王長婷 Pornnapat Pumipruek, 張嘉琳 Angeline Jia Lin Chong
 
 ## Acknowledgments
 
-[Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
 As a team, we would like to extend our heartfelt gratitude to each person who helped us with this project by offering tremendous support and assistance.
 
 Without a doubt, we would want to express our sincere gratitude to Professor Chung-Pei Pien for kindly contributing his knowledge and experience in the area of artificial intelligence to this project. His insightful feedback and constructive suggestions significantly influenced the trajectory that this project took. He helped us significantly improve the caliber of our work.
