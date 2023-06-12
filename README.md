@@ -28,9 +28,9 @@ The objectives of this project are intended for high school students who want to
 
 [List the contributors to your project and describe their roles and responsibilities.]
 
-傅瑋浚 Fu Wei Chun  
-王長婷 Pornnapat Pumipruek
-張嘉琳 Angeline Jia Lin Chong
+ 傅瑋浚 Fu Wei Chun  
+ 王長婷 Pornnapat Pumipruek
+ 張嘉琳 Angeline Jia Lin Chong
 
 ## Acknowledgments
 
