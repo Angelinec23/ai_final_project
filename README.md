@@ -4,7 +4,7 @@ This GitHub repository offers a template specifically designed to teach students
 
 # Project Title
 
-[Enter the title of your project]
+[ICI Qualifier]
 
 ## Project Description
 
