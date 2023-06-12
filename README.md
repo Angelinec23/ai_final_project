@@ -11,6 +11,8 @@ The objectives of this project are intended for high school students who want to
 ## Getting Started
 
 [Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
+To get started with our ICI Qualifier, please do follow the necessary steps:
+1.
 
 ## File Structure
 
@@ -28,16 +30,14 @@ The objectives of this project are intended for high school students who want to
 
 [List the contributors to your project and describe their roles and responsibilities.]
 
- 傅瑋浚 Fu Wei Chun  
- 王長婷 Pornnapat Pumipruek
- 張嘉琳 Angeline Jia Lin Chong
+傅瑋浚 Fu Wei Chun, 王長婷 Pornnapat Pumipruek, 張嘉琳 Angeline Jia Lin Chong
 
 ## Acknowledgments
 
 [Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
 As a team, we would like to extend our heartfelt gratitude to each person who helped us with this project by offering tremendous support and assistance.
 
-Without a doubt, we would want to express our sincere gratitude to Professor Chung-Pei Pien for kindly contributing his knowledge and experience in the area of artificial intelligence to this research. His insightful feedback and constructive suggestions significantly influenced the trajectory that this research took. He helped us significantly improve the caliber of our work.
+Without a doubt, we would want to express our sincere gratitude to Professor Chung-Pei Pien for kindly contributing his knowledge and experience in the area of artificial intelligence to this project. His insightful feedback and constructive suggestions significantly influenced the trajectory that this project took. He helped us significantly improve the caliber of our work.
 
 We also want to express our appreciation to those individuals for voluntarily allowing us access to their personal information. It was essential to get access to this data in order to undertake an in-depth analysis of our ICI Qualifier model.
 
@@ -50,3 +50,4 @@ On a final note, we would like to express our gratitude to everyone who was ment
 ## References
 
 [List any references or resources that you used during your project, including data sources, analytical methods, and tools.]
+1. https://inside-machinelearning.com/en/bert-the-perfect-tutorial-to-easily-use-it/
