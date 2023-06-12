@@ -9,6 +9,7 @@ This GitHub repository offers a template specifically designed to teach students
 ## Project Description
 
 [Enter a brief description of your project, including the data you used and the analytical methods you applied. Be sure to provide context for your project and explain why it is important.]
+The objectives of this research are intended for high school students who want to apply to the Department of the International College of Innovation (ICI) but are unsure if they are qualified. The data would be the resumes of students who wished to getting into ICI. The analytical methods
 
 ## Getting Started
 
