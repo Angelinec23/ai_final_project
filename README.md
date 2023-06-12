@@ -42,7 +42,7 @@ In addition, we are offer to convey our gratitude to some of our friends for the
 
 Finally, we want to convey our sincerity to our family for their continual support and tolerance. Their continuous support has been the driving force behind my quest for knowledge and personal development.
 
-On a final note, we would like to express our gratitude to everyone who was mentioned above for their support and contributions. Their cooperation has been really helpful to the achievement of our work, and we are warmly obliged.
+On a final note, we would like to express our gratitude to everyone who was mentioned above for their support and contributions. Their cooperation has been really helpful to the achievement of our work, and we are deeply obliged.
 
 ## References
 
