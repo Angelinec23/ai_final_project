@@ -11,8 +11,9 @@ The objectives of this project are intended for high school students who want to
 ## Getting Started
 
 [Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
+
 To get started with our ICI Qualifier, please do follow the necessary steps:
-1.
+ 1.
 
 ## File Structure
 
