@@ -6,26 +6,37 @@ ICI Qualifier
 
 [Enter a brief description of your project, including the data you used and the analytical methods you applied. Be sure to provide context for your project and explain why it is important.]
 
-The objectives of this project are intended for high school students who want to apply to the Department of the International College of Innovation (ICI) but are unsure if they are qualified. The data would be the resumes of students who wished to getting into ICI. The analytical methods
+The objectives of this project are intended for users especially high school students who want to apply to the Department of the International College of Innovation (ICI) but are unsure if they are qualified. The data would be the personal statement of students who wished to getting into ICI. The analytical methods
+can help you to evaluate your strengths, experiences, and skills to determine if you are a suitable candidate or not. Our goals is to empowers the user to assess their qualification for the ICI program objectively and make informed decisions regarding their application. It provides a structured approach to self-reflection and evaluation, which can increase their chances of presenting a strong application or help them identify areas for further growth and development.
+
 
 ## Getting Started
 
 [Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
 
-To get started with our ICI Qualifier, please do follow the necessary steps:
+Please take the steps needed to begin using our ICI Qualifier:                                                                                                  
+Firstly, click to run the code.
+Secondly, input your personal statement in the xxx.
+Lastly, the output would be if you're "qualified", "under consideration" or "not qualified".
 
 
 ## File Structure
 
 [Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
+README.md 
+
 
 ## Analysis
 
 [Describe your analysis methods and include any visualizations or graphics that you used to present your findings. Explain the insights that you gained from your analysis and how they relate to your research question or problem statement.]
 
+The ICI Qualifier
+
 ## Results
 
 [Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
+
+The ICI Qualifier 
 
 ## Contributors
 
@@ -35,15 +46,13 @@ To get started with our ICI Qualifier, please do follow the necessary steps:
 
 As a team, we would like to extend our heartfelt gratitude to each person who helped us with this project by offering tremendous support and assistance.
 
-Without a doubt, we would want to express our sincere gratitude to Professor Chung-Pei Pien for kindly contributing his knowledge and experience in the area of artificial intelligence to this project. His insightful feedback and constructive suggestions significantly influenced the trajectory that this project took. He helped us significantly improve the caliber of our work.
+Without a doubt, we would want to express our sincere gratitude to Professor Chung-Pei Pien for kindly contributing his knowledge and experience in the area of artificial intelligence to this project. His insightful feedback and constructive suggestions significantly influenced the trajectory that this project took. He helped us significantly improve the caliber of our work. 
 
 We also want to express our appreciation to those individuals for voluntarily allowing us access to their personal information. It was essential to get access to this data in order to undertake an in-depth analysis of our ICI Qualifier model.
 
-In addition, we are offer to convey our gratitude to some of our friends for their invaluable help and moral support throughout this journey. Their suggestions deepened our comprehension and raised the standard of this work as a whole.
+Likewise, we are offer to convey our gratitude to some of our friends for their invaluable help and moral support throughout this journey. Their suggestions deepened our comprehension and raised the standard of this work as a whole.
 
-Finally, we want to convey our sincerity to our family for their continual support and tolerance. Their continuous support has been the driving force behind my quest for knowledge and personal development.
-
-On a final note, we would like to express our gratitude to everyone who was mentioned above for their support and contributions. Their cooperation has been really helpful to the achievement of our work, and we are deeply obliged.
+On the final note, we want to convey our sincerity to our family for their continual support and tolerance. Their continuous support has been the driving force behind my quest for knowledge and personal development.
 
 ## References
 
