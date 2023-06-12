@@ -38,7 +38,7 @@ This GitHub repository offers a template specifically designed to teach students
 [Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
 As a team, we would like to extend our heartfelt gratitude to each person who helped us with this project by offering tremendous support and assistance.
 
-First and foremost, we would also want to express our sincere gratitude to Professor Chung-Pei Pien for kindly contributing his knowledge and experience in the area of artificial intelligence to this research. His insightful feedback and constructive suggestions significantly influenced the trajectory that this research took. He helped us significantly improve the caliber of our work.
+Without a doubt, we would also want to express our sincere gratitude to Professor Chung-Pei Pien for kindly contributing his knowledge and experience in the area of artificial intelligence to this research. His insightful feedback and constructive suggestions significantly influenced the trajectory that this research took. He helped us significantly improve the caliber of our work.
 
 We also want to express our appreciation to those individuals for voluntarily allowing us access to their personal information. It was essential to get access to this data in order to undertake an in-depth analysis of our ICI Qualifier model.
 
