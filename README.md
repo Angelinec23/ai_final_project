@@ -45,7 +45,7 @@ Without a doubt, we would want to express our sincere gratitude to Professor Chu
 
 We also want to express our appreciation to those individuals for voluntarily allowing us access to their personal information. It was essential to get access to this data in order to undertake an in-depth analysis of our ICI Qualifier model.
 
-In addition, we offer to convey our gratitude to some of our friends for their invaluable help and moral support throughout this journey. Their suggestions deepened our comprehension and raised the standard of this work as a whole.
+In addition, we are offer to convey our gratitude to some of our friends for their invaluable help and moral support throughout this journey. Their suggestions deepened our comprehension and raised the standard of this work as a whole.
 
 Finally, we want to convey our sincerity to our family for their continual support and tolerance. Their continuous support has been the driving force behind my quest for knowledge and personal development.
 
