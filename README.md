@@ -6,9 +6,8 @@ ICI Qualifier
 
 [Enter a brief description of your project, including the data you used and the analytical methods you applied. Be sure to provide context for your project and explain why it is important.]
 
-The objectives of this project are intended for users especially high school students who want to apply to the Department of the International College of Innovation (ICI) but are unsure if they are qualified. The data would be the personal statement of students who wished to getting into ICI. The analytical methods
-can help you to evaluate your strengths, experiences, and skills to determine if you are a suitable candidate or not. Our goals is to empowers the user to assess their qualification for the ICI program objectively and make informed decisions regarding their application. It provides a structured approach to self-reflection and evaluation, which can increase their chances of presenting a strong application or help them identify areas for further growth and development.
-
+The objectives of this project are intended for users, particularly high school students who are unclear of their qualifications yet wish to apply to the Department of the International College of Innovation (ICI). The personal statements of applicants to ICI would serve as the data. The analytical methods
+can help you to evaluate your strengths, experiences, and skills to determine if you are a suitable candidate or not. Our goals is to empowers the user to assess their qualification for the ICI program objectively and make informed decisions regarding their application, but the admissions committee retains the final say. It provides a structured approach to self-reflection and evaluation that might improve applicants' likelihood of making a strong application or or point out prospective areas for improvement.
 
 ## Getting Started
 
@@ -23,7 +22,8 @@ Lastly, the output would be if you're "qualified", "under consideration" or "not
 ## File Structure
 
 [Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
-README.md 
+
+1) README.md 
 
 
 ## Analysis
