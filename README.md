@@ -10,11 +10,11 @@ can help you to evaluate your strengths, experiences, and skills to determine if
 ## Getting Started
 
 Please take the steps needed to begin using our ICI Qualifier:                                                                                                  
-Firstly, click to run the code.
-Secondly, copy and input your personal statement in the column.
-Thirdly, remember to click submit to see the result.
-Lastly, the output would be if you're "qualified", "under consideration" or "not qualified".
 
+1) Click to run the code.
+2) Copy and input your personal statement in the column.
+3) Remember to click submit to see the result.
+4) The output would be if you're "qualified", "under consideration" or "not qualified".
 
 ## File Structure
 
