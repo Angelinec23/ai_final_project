@@ -9,11 +9,9 @@ can help you to evaluate your strengths, experiences, and skills to determine if
 
 ## Getting Started
 
-[Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
-
 Please take the steps needed to begin using our ICI Qualifier:                                                                                                  
 Firstly, click to run the code.
-Secondly, copy and input your personal statement in the colum.
+Secondly, copy and input your personal statement in the column.
 Thirdly, remember to click submit to see the result.
 Lastly, the output would be if you're "qualified", "under consideration" or "not qualified".
 
@@ -22,7 +20,7 @@ Lastly, the output would be if you're "qualified", "under consideration" or "not
 
 Below is the file structure of our ICI Qualifier:
 
-1) README.md; It contains information of our project
+1) README.md; It contains information about our project
 2) Personal_Statement.xlsx; It contains the labeled dataset which is used to generate our model.
 3) ICI_qualifier.ipynb; the coding file for our ICI Qualification application.
 
@@ -30,23 +28,19 @@ Below is the file structure of our ICI Qualifier:
 ## Analysis
 
 [Describe your analysis methods and include any visualizations or graphics that you used to present your findings. Explain the insights that you gained from your analysis and how they relate to your research question or problem statement.]
+Our ICI Qualifier's method of analysis can assist you in evaluating your expertise, experiences, and skills to determine whether you are an appealing prospect or not. The Longformer model can be used successfully for the ICI personal statement task. Given that personal statements frequently contain extensive and comprehensive narratives, it is necessary to capture context and dependencies throughout the document. The dataset is preprocessed, with unnecessary information removed and converted into an Excel file suitable for the Longformer model. It is now able to assess personal statements in their entirety and make proper classification decisions by utilizing Longformer's capacity to handle long-term dependencies in text. The model is then fine-tuned on the labeled training set to optimize its task performance. The model is assessed after training using relevant metrics to determine its accuracy and effectiveness in classifying personal statements. The model's effectiveness is measured on an assessment set, and once implemented, it may classify incoming personal statements as "qualified," "under consideration," or "not qualified." 
 
-The analytical methods of our ICI Qualifier can help you to evaluate your strengths, experiences, and skills to determine if you are a suitable candidate or not.
-The Longformer model can be effectively utilized for the task of ICI personal statement qualification. As personal statements often contain long and detailed narratives that require capturing context and dependencies across the entire document. The dataset is preprocessed, cleaning it of irrelevant information, and converting it into a excel file that is suitable for the Longformer model. By leveraging Longformer's ability to handle long-range dependencies in text, it becomes possible to analyze personal statements in their entirety and make accurate classification decisions. The model is then fine-tuned on the labeled training set, optimizing its performance on the task. After training, the model is evaluated using appropriate metrics to assess its accuracy and effectiveness in classifying personal statements. Evaluation on a testing set measures the model's effectiveness, and once deployed, it can classify incoming personal statements of whether they are "qualified", "under consideration", or "not qualified".
-
-The insufficient training material that we collected or input is beyond the scope of the provided dataset, it impacts our result. Therefore, this project needs continuous improvement which involves feedback collection and periodic retraining with new data to maintain a high accuracy rate.
+We run into two limitations: insufficient training material or input that is outside the scope of the available dataset, both of which have an impact on our results. To maintain a high accuracy rate, this project requires continual development, which includes feedback collecting and occasional retraining with new data.
 
 ## Results
 
-[Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
+The ICI Qualifier offers a methodical framework for evaluation and self-reflection that may increase applicants' chances of submitting compelling applications or identifying potential areas for growth. The user may paste their personal statement and click submit to get a response of "qualified", "under consideration", or "not qualified". The model used serves as a useful decision-making tool in the evaluation of personal statements.
 
-The ICI Qualifier provides a structured approach to self-reflection and evaluation that might improve applicants' likelihood of making a strong application or point out prospective areas for improvement. User can input their personal statement and click submit so that the response will come out as "qualified", "under consideration" or "not qualified". The deployed model offers a valuable tool for decision-making in personal statement evaluation.
+These findings have significance for the field of automated application screening, where AI models can help to streamline the process by categorizing personal statements efficiently. It is simple to use and saves time and resources. Furthermore, future research can concentrate on improving the model's performance by experimenting with tactics such as transfer learning, ensembling, or integrating domain-specific features.
 
-These findings have implications for the field of automated application screening, where AI models can assist in streamlining the process by efficiently categorizing personal statements. It is user-friendly, saves time and resources. Moreover, future research can focus on enhancing the model's performance by exploring techniques like transfer learning, ensembling, or incorporating domain-specific features.
+The ethical consequences of deploying AI in decision-making processes must be considered. To ensure that the model's predictions are impartial and unbiased, transparency, fairness, and bias avoidance should be prioritized. Continuous feedback from reviewers or applicants can aid in the identification of misclassifications and enhance the model's accuracy over time.
 
-It is essential to consider the ethical implications of using AI in decision-making processes. Transparency, fairness, and bias mitigation should be prioritized to ensure that the model's predictions are objective and unbiased. Continued feedback gathering from reviewers or applicants can help in identifying any misclassifications and improving the model's accuracy over time.
-
-Overall, the analytic method utilizing the Longformer model provides a robust framework for personal statement qualification assessment, offering an efficient and accurate approach to assist in the decision-making process.
+Overall, the Longformer model-based analytic method provides a solid foundation for personal statement qualification assessment, providing an efficient and accurate approach to aid in decision-making.
 
 ## Contributors
 
