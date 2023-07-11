@@ -27,8 +27,6 @@ Below is the file structure of our ICI Qualifier:
 
 ## Analysis
 
-[Describe your analysis methods and include any visualizations or graphics that you used to present your findings. Explain the insights that you gained from your analysis and how they relate to your research question or problem statement.]
-
 Our ICI Qualifier's method of analysis can assist you in evaluating your expertise, experiences, and skills to determine whether you are an appealing prospect or not. The Longformer model can be used successfully for the ICI personal statement task. Given that personal statements frequently contain extensive and comprehensive narratives, it is necessary to capture context and dependencies throughout the document. The dataset is preprocessed, with unnecessary information removed and converted into an Excel file suitable for the Longformer model. It is now able to assess personal statements in their entirety and make proper classification decisions by utilizing Longformer's capacity to handle long-term dependencies in text. The model is then fine-tuned on the labeled training set to optimize its task performance. The model is assessed after training using relevant metrics to determine its accuracy and effectiveness in classifying personal statements. The model's effectiveness is measured on an assessment set, and once implemented, it may classify incoming personal statements as "qualified," "under consideration," or "not qualified." 
 
 We run into two limitations: insufficient training material or input that is outside the scope of the available dataset, both of which have an impact on our results. To maintain a high accuracy rate, this project requires continual development, which includes feedback collecting and occasional retraining with new data.
@@ -55,7 +53,7 @@ Without a doubt, we would want to express our sincere gratitude to Professor Chu
 
 We also want to express our appreciation to those individuals for voluntarily allowing us access to their personal information. It was essential to get access to this data in order to undertake an in-depth analysis of our ICI Qualifier model.
 
-On the final note, we want to convey our sincerity to our family for their continual support and tolerance. Their continuous support has been the driving force behind my quest for knowledge and personal development.
+On a final note, we want to convey our sincerity to our family for their continual support and tolerance. Their continuous support has been the driving force behind my quest for knowledge and personal development.
 
 ## References
 
